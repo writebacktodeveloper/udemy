@@ -1,1 +1,2 @@
 This is the best time. This is the worst time.
+We are adding new feature2 to this branch
